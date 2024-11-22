@@ -3,7 +3,10 @@
   <table style="width:100%; max-width: 800px; margin: auto;">
     <tr>
       <td align="left" valign="middle" style="padding-right: 20px;">
-        <h1>Hi 👋, I'm Dinupa Athapattu</h1>
+        <h1>
+          <img src="https://camo.githubusercontent.com/200754bb373a63226cf77050ce701c210b646f93bb11ef4cd3b078c1419854c1/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f666f6e743d5269676874656f75732673697a653d33352663656e7465723d74727565267643656e7465723d747275652677696474683d353030266865696768743d3730266475726174696f6e3d34303030266c696e65733d48692b5468657265212bf09f918b3b2b49276d2b52657368616e2b476179616e746861213b" 
+               alt="Hi, I'm Dinupa Athapattu" />
+        </h1>
         <h3>A passionate developer learning and building projects using MERN Stack and Flutter</h3>
       </td>
       <td align="right" valign="middle">
