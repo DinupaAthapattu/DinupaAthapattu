@@ -4,6 +4,9 @@
 
 I'm a passionate software developer and part time music producer currently diving deep into the realms of web development and experimenting with generative AI for social good. Here, you'll find some of my projects, experiments, and collaboration efforts across a range of interests from software tech to creative projects!
 
+![image](https://github.com/user-attachments/assets/4999ff36-94ed-42c2-aab1-e68ea60a894c)
+
+
 ---
 
 ### 🚀 About Me
