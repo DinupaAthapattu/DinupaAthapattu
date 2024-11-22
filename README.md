@@ -3,9 +3,7 @@
   <table style="width:100%; max-width: 800px; margin: auto;">
     <tr>
       <td align="left" valign="middle" style="padding-right: 20px;">
-        <h1>
-          <img 
-        </h1>
+        <h1>Hi 👋, I'm Dinupa Athapattu</h1>
         <h3>A passionate developer learning and building projects using MERN Stack and Flutter</h3>
       </td>
       <td align="right" valign="middle">
