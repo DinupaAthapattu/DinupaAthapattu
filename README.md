@@ -1,11 +1,18 @@
 <!-- 🌟 Welcome Section -->
 <div align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Dinupa Athapattu" style="width: 100%; max-width: 600px; border-radius: 10px;" />
-  
-  <h1>
-    Hi 👋, I'm Dinupa Athapattu
-  </h1>
-  <h3>A passionate developer learning and building projects using MERN Stack and Flutter</h3>
+  <table style="width:100%; max-width: 800px; margin: auto;">
+    <tr>
+      <td align="left" valign="middle" style="padding-right: 20px;">
+        <h1>Hi 👋, I'm Dinupa Athapattu</h1>
+        <h3>A passionate developer learning and building projects using MERN Stack and Flutter</h3>
+      </td>
+      <td align="right" valign="middle">
+        <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" 
+             alt="Dinupa Athapattu" 
+             style="width: 100%; max-width: 200px; border-radius: 10px;" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
