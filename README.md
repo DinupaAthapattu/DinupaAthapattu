@@ -21,7 +21,7 @@
 ### 🧑‍💻 About Me:
 - 🔭 I’m currently working on an exciting [Crypto Tracker](https://github.com/DinupaAthapattu/Crypto-Tracker).  
 - 🌱 Currently diving deep into **Flutter**, **Swift**, and exploring **Machine Learning**.  
-- 🎯 My focus areas: Cross-platform app development, financial applications, and enhancing user experiences.  
+- 🎯 My focus areas: Web app development, financial applications, and enhancing user experiences.  
 - 💡 Fun fact: I love experimenting with **UI/UX design** tools to create stunning user interfaces.  
 - 📧 Reach me at: **dinupaathapattu@gmail.com**  
 
